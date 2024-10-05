@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "@solana/spl-token-swap": "^0.4.3",
+    "@solana/web3.js": "^1.95.3"
+  }
+}
